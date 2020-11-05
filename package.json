@@ -1,0 +1,14 @@
+{
+  "id": "element",
+  "name": "Element",
+  "version": "1.0.1",
+  "description": "Element",
+  "main": "index.js",
+  "author": "Mark Chassy <mchassy@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.element.io",
+    "hasNotificationSound": true,
+    "disablewebsecurity": true
+  }
+}
